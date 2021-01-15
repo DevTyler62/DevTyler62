@@ -15,7 +15,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 <!--
