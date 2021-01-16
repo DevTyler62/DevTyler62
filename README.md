@@ -21,6 +21,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-333333?style=flat&logo=microsoft-access&logoColor=A4373A)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=003B57)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclispe IDE](https://img.shields.io/badge/-Eclispe%20IDE-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
