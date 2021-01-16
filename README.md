@@ -2,12 +2,12 @@
 
 ## I'm Tyler Smith an aspiring Full Stack Developer
 
-### 💻 &nbsp;About Me
+##💻 &nbsp;About Me
 
 - 🎓&nbsp; Studying Computer Science with a focus on Software Development at Kutztown University
 - 
 
-### 🛠 &nbsp;Languages and Tools
+## 🛠 &nbsp;Languages and Tools
 
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
