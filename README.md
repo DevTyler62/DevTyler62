@@ -23,7 +23,7 @@
   ![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-333333?style=flat&logo=microsoft-access&logoColor=A4373A)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclispe IDE](https://img.shields.io/badge/-Eclispe%20IDE-333333?style=flat&logo=eclipse-ide)
+  ![Eclispe IDE](https://img.shields.io/badge/-Eclispe%20IDE-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=430098)
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=Netlify)
 
