@@ -29,6 +29,14 @@
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=Netlify)
 
 
+## My Stats
+<p>
+<a href="https://github.com/DevTyler62">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devtyler62&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&theme=radical&layout=compact" />
+</a>
+</p>
+
   <!--
 **DevTyler62/DevTyler62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
