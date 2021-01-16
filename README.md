@@ -2,7 +2,7 @@
 
 ## I'm Tyler Smith an aspiring Full Stack Developer
 
-##💻 &nbsp;About Me
+## 💻 &nbsp;About Me
 
 - 🎓&nbsp; Studying Computer Science with a focus on Software Development at Kutztown University
 - 
