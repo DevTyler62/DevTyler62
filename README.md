@@ -5,7 +5,6 @@
 ## 💻 &nbsp;About Me
 
 - 🎓&nbsp; Studying Computer Science with a focus on Software Development at Kutztown University
-- 
 
 ## 🛠 &nbsp;Languages and Tools
 
