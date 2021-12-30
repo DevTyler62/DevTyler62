@@ -39,7 +39,7 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://tylercodes.netlify.app/"><img src="https://img.shields.io/badge/-tylercodes.netlify.app-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://tylercodes.dev/"><img src="https://img.shields.io/badge/-tylercodes.netlify.app-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tyler-smith-121205196/"><img src="https://img.shields.io/badge/-Tyler%20Smith-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/tyler_codes/"><img src="https://img.shields.io/badge/-Tyler_Codes-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:tylercodes6536@gamil.com"><img src="https://img.shields.io/badge/-tylercodes653@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
