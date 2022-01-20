@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Tyler Smith an aspiring Full Stack Developer
+## I'm Tyler Smith and I am a Web Developer
 
 ## 💻 &nbsp;About Me
 
