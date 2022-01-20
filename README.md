@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Tyler Smith and I am a Web Developer
+## I'm Tyler and I am a Web Developer
 
 ## 💻 &nbsp;About Me
 
