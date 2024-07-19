@@ -41,7 +41,7 @@
 <p align="center">
 <a href="https://tylercodes.dev/"><img src="https://img.shields.io/badge/-tylercodes.dev-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tyler-smith-121205196/"><img src="https://img.shields.io/badge/-Tyler%20Smith-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/tylerstechspace/"><img src="https://img.shields.io/badge/-Tyler_Tech_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/tylerstechspace/"><img src="https://img.shields.io/badge/-TylersTechSpace_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:tylertech568@gamil.com"><img src="https://img.shields.io/badge/-tylertech568@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
   <!--
