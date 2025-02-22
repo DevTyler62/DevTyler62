@@ -26,6 +26,7 @@
   ![Eclispe IDE](https://img.shields.io/badge/-Eclispe%20IDE-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=430098)
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=Netlify)
+  [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 
 
 ## My Stats
