@@ -11,6 +11,7 @@
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -25,8 +26,11 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclispe IDE](https://img.shields.io/badge/-Eclispe%20IDE-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=430098)
-  ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=Netlify)
-  [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
+  ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 
 
 ## My Stats
