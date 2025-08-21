@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-## I'm Tyler and I am a Web Developer
+## I'm Tyler and I am a Full Stack Software Developer
 
 ## 💻 &nbsp;About Me
 
 - 🎓&nbsp; B.S. Computer Science with a focus on Software Development from Kutztown University
+- A Full Stack Software Engineer with 3 years of experience concentrating on the Frontend, utilizing a modern tech stack of JavaScript, React, SQL, and Azure to build enterprise solutions. This expertise extends to solving business problems in marketing, data, cloud, and AI across industries in healthcare, retail, and technology. Started out working alongside 15 people and, after we were acquired, grew to 250 people. Delivered impact for clients internally and externally in the form of data migration efforts and easy-to-use applications that both made data retrieval and capture more efficient.
 
 ## 🛠 &nbsp;Languages and Tools
 
