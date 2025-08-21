@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Tyler and I am a Full Stack Software Developer
+## I'm Tyler and I am a Full Stack Software Engineer
 
 ## 💻 &nbsp;About Me
 
