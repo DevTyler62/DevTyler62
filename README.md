@@ -55,7 +55,7 @@
 
 
 ## My Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&theme=highcontrast)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=devtyler62&layout=compact&langs_count=6&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=devtyler62&layout=compact&langs_count=6&theme=highcontrast)
 <p>
 <a href="https://github.com/DevTyler62">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devtyler62&show_icons=true&theme=radical" /> -->
